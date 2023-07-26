@@ -1,0 +1,9 @@
+{
+    "port": 3000,
+    "redis":{
+        "redisHost": "localhost",
+        "redisPort": 6379
+    },
+    "sessionDuration": 60,
+    "waitTime": 5
+}
