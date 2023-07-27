@@ -1,7 +1,7 @@
 {
     "port": 3000,
     "redis":{
-        "redisHost": "localhost",
+        "redisHost": "172.17.0.2",
         "redisPort": 6379
     },
     "sessionDuration": 60,
