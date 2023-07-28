@@ -25,7 +25,7 @@ This app is a home assignment to manage sessions with Redis.
 In the repository there's a folder named utils. In the utils folder you'll find a postman collection. Import the collection.
 There are three queries in the collection:
 
-    GET /login?username=\<username\>
+    GET /login?username=<username>
 
 Gets a session for a username.
 
